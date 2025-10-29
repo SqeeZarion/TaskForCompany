@@ -1,6 +1,5 @@
 # 🐶 DogsHouseService
 
-### English 🇬🇧
 **DogsHouseService** is a RESTful API built with **.NET 9** that follows the **Onion Architecture** pattern.  
 The project was developed as part of a **technical task for a company** and demonstrates clean design, separation of concerns,  
 dependency inversion, exception handling, rate limiting, and unit testing using **xUnit**.
@@ -30,11 +29,12 @@ This approach provides high testability, flexibility, and loose coupling between
 ---
 
 ## 🧪 Testing
+<img width="2396" height="1403" alt="image" src="https://github.com/user-attachments/assets/e1896d6d-6098-4569-a225-47cf72b76619" />
+
 All unit tests are located in:
 DogsHouseService.Tests/
 
-diff
-Копіювати код
+
 They cover:
 - Business logic in services  
 - Middleware (Rate Limiting, Exception Handling)  
@@ -43,7 +43,8 @@ They cover:
 Run tests using:
 
 dotnet test
-🚀 How to Run Locally
+---
+##🚀 How to Run Locally
 Make sure you have .NET SDK 9.0+ installed.
 
 1️⃣ Clone the repository:
