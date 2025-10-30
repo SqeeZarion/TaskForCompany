@@ -64,4 +64,4 @@ https://localhost:7159/swagger
 
 👤 Author
 Developed by SqeeZarion (Yura)
-as part of a technical assignment and portfolio backend project.
+as part of a technical assignment.
